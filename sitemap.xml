@@ -3,17 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.eliashussen.com/categories/</loc>
+    <loc>https://eliashussen.com/post/thisisatest/</loc>
+    <lastmod>2019-10-02T13:24:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eliashussen.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.eliashussen.com/tags/</loc>
+    <loc>https://eliashussen.com/post/</loc>
+    <lastmod>2019-10-02T13:24:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.eliashussen.com/</loc>
+    <loc>https://eliashussen.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eliashussen.com/</loc>
+    <lastmod>2019-10-02T13:24:20-04:00</lastmod>
     <priority>0</priority>
   </url>
   
