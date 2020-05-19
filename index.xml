@@ -6,28 +6,16 @@
     <description>Recent content on eliashussen.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 11:17:41 +0300</lastBuildDate>
     
     <atom:link href="https://eliashussen.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Render LaTeX using KaTeX</title>
-      <link>https://eliashussen.com/posts/render-latex-using-katex/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Deployed a Finetuned BERT Text Classifier with AWS Lambda</title>
+      <link>https://eliashussen.com/posts/bert-torch-lambda/</link>
+      <pubDate>Tue, 19 May 2020 12:30:14 +0300</pubDate>
       
-      <guid>https://eliashussen.com/posts/render-latex-using-katex/</guid>
-      <description>
-      
-      Katex support demo
-      
-      </description>
-    </item>
-    <item>
-      <title>Hugo coder wiki</title>
-      <link>https://eliashussen.com/posts/hugo-coder-wiki/</link>
-      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eliashussen.com/posts/hugo-coder-wiki/</guid>
+      <guid>https://eliashussen.com/posts/bert-torch-lambda/</guid>
       <description>
       
       
@@ -35,76 +23,14 @@
       </description>
     </item>
     <item>
-      <title>Dummy</title>
-      <link>https://eliashussen.com/posts/dummy/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Resume</title>
+      <link>https://eliashussen.com/resume/</link>
+      <pubDate>Tue, 19 May 2020 11:17:41 +0300</pubDate>
       
-      <guid>https://eliashussen.com/posts/dummy/</guid>
+      <guid>https://eliashussen.com/resume/</guid>
       <description>
       
-      Nada para ver aqui!
-
       
-      </description>
-    </item>
-    <item>
-      <title>Theme Demo</title>
-      <link>https://eliashussen.com/posts/theme-demo/</link>
-      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eliashussen.com/posts/theme-demo/</guid>
-      <description>
-      
-      The post demonstrates features of the coder theme.
-      
-      </description>
-    </item>
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://eliashussen.com/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://eliashussen.com/posts/creating-a-new-theme/</guid>
-      <description>
-      
-      Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML,...
-      
-      </description>
-    </item>
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://eliashussen.com/posts/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://eliashussen.com/posts/hugo-template-primer/</guid>
-      <description>
-      
-      Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that pro...
-      
-      </description>
-    </item>
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://eliashussen.com/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://eliashussen.com/posts/hugoisforlovers/</guid>
-      <description>
-      
-      Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somew...
-      
-      </description>
-    </item>
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://eliashussen.com/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://eliashussen.com/posts/migrate-from-jekyll/</guid>
-      <description>
-      
-      The post explains how to migrate from from Jekyll to Hugo.
       
       </description>
     </item>
@@ -136,19 +62,6 @@ It makes use of a variety of open source projects including:
       </description>
     </item>
     <item>
-      <title>Contato</title>
-      <link>https://eliashussen.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eliashussen.com/contact/</guid>
-      <description>
-      
-      Me siga em @joaoninguem.
-
-      
-      </description>
-    </item>
-    <item>
       <title>Projects</title>
       <link>https://eliashussen.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -157,32 +70,6 @@ It makes use of a variety of open source projects including:
       <description>
       
       Nothing to see here… Move along!
-
-      
-      </description>
-    </item>
-    <item>
-      <title>Projetos</title>
-      <link>https://eliashussen.com/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eliashussen.com/projects/</guid>
-      <description>
-      
-      Em construção… Aguarde!
-
-      
-      </description>
-    </item>
-    <item>
-      <title>Sobre Hugo</title>
-      <link>https://eliashussen.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eliashussen.com/about/</guid>
-      <description>
-      
-      Em construção… Aguarde!
 
       
       </description>

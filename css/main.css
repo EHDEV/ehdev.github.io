@@ -80,10 +80,11 @@ b, strong {
 }
 
 a {
-  color: #3700ff;
+  color: #031140;
   text-decoration: none;
   word-break: break-word;
 }
+
 a:hover {
   color: #808080;
 }
@@ -237,10 +238,13 @@ table th {
 #title-description {
   display: flex;
   justify-content: space-between;
+  font-size: large;
+  color:#3f4352;
+  margin: 20px 25px 10px 50px;
 }
 
 #social nav {
-  margin: auto 0;
+  margin: 0px 0px 0px 0px;
 }
 
 #social nav ul {
@@ -268,6 +272,7 @@ table th {
   display: inline-block;
   list-style: none;
   margin: 0 30px 0 0;
+  font-size: large;
 }
 
 #mainmenu li:last-child {
@@ -520,8 +525,10 @@ legend, td, th {
     flex-direction: column;
   }
 
-  #subtitle {
-    margin: 5px 0 5px 0;
+#subtitle {
+    margin: 25px 25px 25px 15px;
+    font-size: large;
+    color:#3f4352;
   }
 
   #social nav ul {
@@ -536,12 +543,6 @@ legend, td, th {
 
   #social li:last-child {
     margin: 0;
-  }
-
-  #mainmenu nav li {
-    display: inline-block;
-    list-style: none;
-    margin: 0 10px 0 0;
   }
 
   .icons {
