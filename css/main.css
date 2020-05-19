@@ -40,6 +40,7 @@ body {
 }
 
 header {
+  margin-top: 15px;
   margin-bottom: 20px;
 }
 
@@ -240,7 +241,10 @@ table th {
   justify-content: space-between;
   font-size: large;
   color:#3f4352;
-  margin: 5px 0px 5px 10px;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  margin-right: 5px;
+  margin-left: 0px;
 }
 
 #social nav {
@@ -526,7 +530,7 @@ legend, td, th {
   }
 
 #subtitle {
-    margin: 25px 25px 25px 15px;
+    margin: 0px 0px 0px 0px;
     font-size: large;
     color:#3f4352;
   }
