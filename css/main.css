@@ -51,10 +51,7 @@ header nav ul,
 header nav li {
   margin: 0;
   padding: 0;
-  font-size: x-large;
-
 }
-
 
 footer {
   font-family: "Roboto Slab Regular", serif;
@@ -83,11 +80,10 @@ b, strong {
 }
 
 a {
-  color: #1e3759;
+  color: #3700ff;
   text-decoration: none;
   word-break: break-word;
 }
-
 a:hover {
   color: #808080;
 }
@@ -552,4 +548,3 @@ legend, td, th {
     font-size: 1.8rem;
   }
 }
-
