@@ -40,7 +40,6 @@ body {
 }
 
 header {
-  margin-top: 15px;
   margin-bottom: 20px;
 }
 
@@ -81,11 +80,10 @@ b, strong {
 }
 
 a {
-  color: #031140;
+  color: #3700ff;
   text-decoration: none;
   word-break: break-word;
 }
-
 a:hover {
   color: #808080;
 }
@@ -239,16 +237,10 @@ table th {
 #title-description {
   display: flex;
   justify-content: space-between;
-  font-size: large;
-  color:#3f4352;
-  margin-top: 0px;
-  margin-bottom: 5px;
-  margin-right: 5px;
-  margin-left: 0px;
 }
 
 #social nav {
-  margin: 0px 0px 0px 0px;
+  margin: auto 0;
 }
 
 #social nav ul {
@@ -276,7 +268,6 @@ table th {
   display: inline-block;
   list-style: none;
   margin: 0 30px 0 0;
-  font-size: large;
 }
 
 #mainmenu li:last-child {
@@ -301,8 +292,8 @@ table th {
 }
 
 .post-header .meta .date {
-    margin-right: 30px;
-    width: 64px;
+    margin-right: 19px;
+    width: 75px;
     text-align: center;
 }
 
@@ -529,10 +520,8 @@ legend, td, th {
     flex-direction: column;
   }
 
-#subtitle {
-    margin: 0px 0px 0px 0px;
-    font-size: large;
-    color:#3f4352;
+  #subtitle {
+    margin: 5px 0 5px 0;
   }
 
   #social nav ul {
@@ -547,6 +536,12 @@ legend, td, th {
 
   #social li:last-child {
     margin: 0;
+  }
+
+  #mainmenu nav li {
+    display: inline-block;
+    list-style: none;
+    margin: 0 10px 0 0;
   }
 
   .icons {

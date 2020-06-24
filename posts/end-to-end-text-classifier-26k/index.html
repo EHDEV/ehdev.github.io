@@ -5,22 +5,24 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="author" content="Elias Hussen"><meta name="keywords" content="ml,machine learning,data engineering,data engineer,machine learning engineer,data science,data scientist,analytics,analyst,ai,nlp,big data,nlp,transformers,BERT,DistilBERT,ehussen,saas,freelancer,freelance,data architect,solo founder"><meta property="og:title" content="Finetuning BERT for Sequence Classification and Deploying It as a REST API with AWS Lambda and API Gateway " />
-<meta property="og:description" content="" />
+<meta name="author" content="Elias Hussen"><meta name="keywords" content="ml,machine learning,data engineering,data engineer,machine learning engineer,data science,data scientist,analytics,analyst,ai,nlp,big data,nlp,transformers,BERT,DistilBERT,ehussen,saas,freelancer,freelance,data architect,solo founder"><meta property="og:title" content="How I built an End to End Text Classifier and Sold It for 26k" />
+<meta property="og:description" content="Steps I took in building an end-to-end Deep Learning pipeline for Text Classification Introduction Thou I had built something similar while I was working as a Senior Data Engineerat VICE, I only built the training and serving pipelines and handed them to our DevOps team to deploy them.
+This time I built the models, the training pipeline, the serving script and deployed them to production." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://eliashussen.com/posts/bert-torch-lambda/" />
-<meta property="article:published_time" content="2020-05-25T12:30:14+03:00" />
-<meta property="article:modified_time" content="2020-05-25T12:30:14+03:00" />
+<meta property="og:url" content="https://eliashussen.com/posts/end-to-end-text-classifier-26k/" />
+<meta property="article:published_time" content="2020-06-15T15:05:06+03:00" />
+<meta property="article:modified_time" content="2020-06-15T15:05:06+03:00" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Finetuning BERT for Sequence Classification and Deploying It as a REST API with AWS Lambda and API Gateway "/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="How I built an End to End Text Classifier and Sold It for 26k"/>
+<meta name="twitter:description" content="Steps I took in building an end-to-end Deep Learning pipeline for Text Classification Introduction Thou I had built something similar while I was working as a Senior Data Engineerat VICE, I only built the training and serving pipelines and handed them to our DevOps team to deploy them.
+This time I built the models, the training pipeline, the serving script and deployed them to production."/>
 
   <link rel="stylesheet" type="text/css" media="screen" href="https://eliashussen.com/css/normalize.css" />
   <link rel="stylesheet" type="text/css" media="screen" href="https://eliashussen.com/css/main.css" />
   <link rel="stylesheet" type="text/css" media="screen" href="https://eliashussen.com/css/all.css" />
 <link rel="stylesheet" href="https://eliashussen.com/css/katex.min.css" crossorigin="anonymous">
   <script defer src="https://eliashussen.com/js/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
-  <script defer src="https://eliashussen.com/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>Finetuning BERT for Sequence Classification and Deploying It as a REST API with AWS Lambda and API Gateway  | Hi I am Elias</title></head>
+  <script defer src="https://eliashussen.com/js/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script><title>How I built an End to End Text Classifier and Sold It for 26k | Hi I am Elias</title></head>
 <body><header>
 
   <div id="avatar">
@@ -65,17 +67,21 @@
 <div class="meta">
 
 <div class="date">
-<span class="day">25</span>
-<span class="rest">May 2020</span>
+<span class="day">15</span>
+<span class="rest">Jun 2020</span>
 </div>
 
 </div>
 
 <div class="matter">
-<h1 class="title">Finetuning BERT for Sequence Classification and Deploying It as a REST API with AWS Lambda and API Gateway </h1>
+<h1 class="title">How I built an End to End Text Classifier and Sold It for 26k</h1>
 </div>
 </div>
 <div class="markdown">
+<h4 id="_steps-i-took-in-building-an-end-to-end-deep-learning-pipeline-for-text-classification_"><em>Steps I took in building an end-to-end Deep Learning pipeline for Text Classification</em></h4>
+<h3 id="introduction">Introduction</h3>
+<p>Thou I had built something similar while I was working as a Senior Data Engineerat VICE, I only built the training and serving pipelines and handed them to our DevOps team to deploy them.</p>
+<p>This time I built the models, the training pipeline, the serving script and deployed them to production.</p>
 
 </div>
 <div class="tags">

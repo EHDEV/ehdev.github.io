@@ -3,32 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eliashussen.com/posts/bert-torch-lambda/</loc>
-    <lastmod>2020-05-19T12:30:14+03:00</lastmod>
+    <loc>https://eliashussen.com/posts/data-engineering-is-not-easy/</loc>
+    <lastmod>2020-06-22T15:06:49+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://eliashussen.com/posts/</loc>
-    <lastmod>2020-05-19T12:30:14+03:00</lastmod>
+    <lastmod>2020-06-22T15:06:49+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eliashussen.com/about/</loc>
-    <lastmod>2020-05-19T11:17:41+03:00</lastmod>
+    <loc>https://eliashussen.com/posts/end-to-end-text-classifier-26k/</loc>
+    <lastmod>2020-06-15T15:05:06+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eliashussen.com/contact/</loc>
-    <lastmod>2020-05-19T11:17:41+03:00</lastmod>
+    <loc>https://eliashussen.com/posts/why-you-should-become-data-engineer/</loc>
+    <lastmod>2020-06-07T15:07:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eliashussen.com/posts/bert-torch-lambda/</loc>
+    <lastmod>2020-05-25T12:30:14+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://eliashussen.com/</loc>
-    <lastmod>2020-05-19T11:17:41+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eliashussen.com/projects/</loc>
     <lastmod>2020-05-19T11:17:41+03:00</lastmod>
   </url>
   
@@ -38,7 +38,19 @@
   </url>
   
   <url>
+    <loc>https://eliashussen.com/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://eliashussen.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eliashussen.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eliashussen.com/projects/</loc>
   </url>
   
   <url>
