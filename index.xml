@@ -6,7 +6,7 @@
     <description>Recent content on eliashussen.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 11:17:41 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 15:06:49 +0300</lastBuildDate>
     
     <atom:link href="https://eliashussen.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,7 +18,7 @@
       <guid>https://eliashussen.com/posts/data-engineering-is-not-easy/</guid>
       <description>
       
-      
+      DE the process of collecting, transforming, warehousing and analyzing of all kinds of datasets from disparate sources. A...
       
       </description>
     </item>
@@ -59,26 +59,29 @@
       </description>
     </item>
     <item>
-      <title>Resume</title>
+      <title></title>
       <link>https://eliashussen.com/resume/</link>
-      <pubDate>Tue, 19 May 2020 11:17:41 +0300</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eliashussen.com/resume/</guid>
       <description>
       
-      
+      Elias Hussen Resume New York, NY 10029
+347-635-4276
+ehussen@gmail.com
+ EDUCATION Columbia University – New York, NY	Sep ...
       
       </description>
     </item>
     <item>
-      <title>About Hugo</title>
+      <title>About Me</title>
       <link>https://eliashussen.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eliashussen.com/about/</guid>
       <description>
       
-      I am a. I am a senior programmer with good knowledge of front-end techniques. I love structure and order and I also stan...
+      I started my tech career in Ethiopia when I was hired as a Software Test Engineer at a startup in Addis Ababa. A year la...
       
       </description>
     </item>
@@ -90,8 +93,13 @@
       <guid>https://eliashussen.com/contact/</guid>
       <description>
       
-      Follow me, @johndoe.
-
+      Follow me:
+@ehussen on Twitter
+@ehdev on GitHub
+Elias Hussen on LinkedIn
+ Email me:
+@ehussen at gmail
+@elias at elitedat...
       
       </description>
     </item>
@@ -104,6 +112,19 @@
       <description>
       
       Nothing to see here… Move along!
+
+      
+      </description>
+    </item>
+    <item>
+      <title>Subscribe</title>
+      <link>https://eliashussen.com/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eliashussen.com/subscribe/</guid>
+      <description>
+      
+      Subscribe Here to receive weekly emails of short essays on AI, Data Engineering, etc.
 
       
       </description>
