@@ -6,20 +6,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="author" content="Elias Hussen"><meta name="keywords" content="ml,machine learning,data engineering,data engineer,machine learning engineer,data science,data scientist,analytics,analyst,ai,nlp,big data,nlp,transformers,BERT,DistilBERT,ehussen,saas,freelancer,freelance,data architect,solo founder"><meta property="og:title" content="Data Engineering Is Not Easy but Highly Rewarding" />
-<meta property="og:description" content="DE the process of collecting, transforming, warehousing and analyzing of all kinds of datasets from disparate sources. A DE is responsible for building data integration pipelines; data warehouses and data lakes as well as visualizations and dashboards that report on the data.
+<meta property="og:description" content="Data Engineering the process of collecting, transforming, warehousing and analyzing of all kinds of datasets from disparate sources. A DE is responsible for building data integration pipelines; data warehouses and data lakes as well as visualizations and dashboards that report on the data.
 The GitLab data team define their data engineers as
-Data Engineers are essentially software engineers who have a particular focus on the movement and orchestration of data.
-Though the above is mostly true, one key difference between a Software Engineer and a Data Engineer is that unlike a Software Engineer, a data engineer often has to deal with adhoc and urgent requests for data, which often means, the engineer would have to build quick scripts to get data from a source and often times, this script would end up deployed in production because clients need the data urgently and without delay." />
+ Data Engineers are essentially software engineers who have a particular focus on the movement and orchestration of data." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://eliashussen.com/posts/data-engineering-is-not-easy/" />
 <meta property="article:published_time" content="2020-06-22T15:06:49+03:00" />
 <meta property="article:modified_time" content="2020-06-22T15:06:49+03:00" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Data Engineering Is Not Easy but Highly Rewarding"/>
-<meta name="twitter:description" content="DE the process of collecting, transforming, warehousing and analyzing of all kinds of datasets from disparate sources. A DE is responsible for building data integration pipelines; data warehouses and data lakes as well as visualizations and dashboards that report on the data.
+<meta name="twitter:description" content="Data Engineering the process of collecting, transforming, warehousing and analyzing of all kinds of datasets from disparate sources. A DE is responsible for building data integration pipelines; data warehouses and data lakes as well as visualizations and dashboards that report on the data.
 The GitLab data team define their data engineers as
-Data Engineers are essentially software engineers who have a particular focus on the movement and orchestration of data.
-Though the above is mostly true, one key difference between a Software Engineer and a Data Engineer is that unlike a Software Engineer, a data engineer often has to deal with adhoc and urgent requests for data, which often means, the engineer would have to build quick scripts to get data from a source and often times, this script would end up deployed in production because clients need the data urgently and without delay."/>
+ Data Engineers are essentially software engineers who have a particular focus on the movement and orchestration of data."/>
 
   <link rel="stylesheet" type="text/css" media="screen" href="https://eliashussen.com/css/normalize.css" />
   <link rel="stylesheet" type="text/css" media="screen" href="https://eliashussen.com/css/main.css" />
@@ -84,10 +82,12 @@ Though the above is mostly true, one key difference between a Software Engineer 
 </div>
 </div>
 <div class="markdown">
-<p>DE the process of collecting, transforming, warehousing and analyzing of all kinds of datasets from disparate sources. A DE is responsible for building data integration pipelines; data warehouses and data lakes as well as visualizations and dashboards that report on the data.</p>
+<p>Data Engineering the process of collecting, transforming, warehousing and analyzing of all kinds of datasets from disparate sources. A DE is responsible for building data integration pipelines; data warehouses and data lakes as well as visualizations and dashboards that report on the data.</p>
 <p>The GitLab data team define their data engineers as</p>
+<blockquote>
 <p>Data Engineers are essentially software engineers who have a particular focus on the movement and orchestration of data.</p>
-<p>Though the above is mostly true, one key difference between a Software Engineer and a Data Engineer is that unlike a Software Engineer, a data engineer often has to deal with adhoc and urgent requests for data, which often means, the engineer would have to build quick scripts to get data from a source and often times, this script would end up deployed in production because clients need the data urgently and without delay. What results is a data pipeline code that is stitched together without much thought of architecture, design and testing.</p>
+</blockquote>
+<p>Though the above is mostly true, one key difference between a Software Engineer and a Data Engineer is that unlike a Software Engineer, a data engineer often has to deal with adhoc requests for data that is piped with quick and dirty scripts that often find themselves deployed to productions. The resulting code often breaks if there is a small change in the source data or its schem, leading to tiresome need to fix the pipeline code.</p>
 <p>What makes data engineering hard/challenging?
 - The frequently changing nature of source schema makes it challenging to build code that is adaptable to the data with changed schema.
 - There is so much valuable data to collect, warehouse and analyze in shorter and shorter cadence that any interruption due to a bug or other reasons would mean chaos and panic by the end-users of the data. So a data engineer frequently finds himself/herself fixing bugs in data pipelines that are deployed in production and then manually trigger backfills of data.
