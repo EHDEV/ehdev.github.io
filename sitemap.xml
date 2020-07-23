@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eliashussen.com/posts/data-engineering-is-not-easy/</loc>
-    <lastmod>2020-06-22T15:06:49+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eliashussen.com/</loc>
-    <lastmod>2020-06-22T15:06:49+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eliashussen.com/posts/</loc>
-    <lastmod>2020-06-22T15:06:49+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eliashussen.com/resume/</loc>
   </url>
   
@@ -31,6 +16,10 @@
   
   <url>
     <loc>https://eliashussen.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eliashussen.com/</loc>
   </url>
   
   <url>
