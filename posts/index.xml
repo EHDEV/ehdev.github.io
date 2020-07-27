@@ -6,19 +6,55 @@
     <description>Recent content in Posts on eliashussen.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jun 2020 15:06:49 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 15:06:49 +0300</lastBuildDate>
     
     <atom:link href="https://eliashussen.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Data Engineering Is Not Easy but Highly Rewarding</title>
       <link>https://eliashussen.com/posts/data-engineering-is-not-easy/</link>
-      <pubDate>Mon, 22 Jun 2020 15:06:49 +0300</pubDate>
+      <pubDate>Wed, 15 Jul 2020 15:06:49 +0300</pubDate>
       
       <guid>https://eliashussen.com/posts/data-engineering-is-not-easy/</guid>
       <description>
       
       Data Engineering the process of collecting, transforming, warehousing and analyzing of all kinds of datasets from dispar...
+      
+      </description>
+    </item>
+    <item>
+      <title>How I built an End to End Text Classifier and Sold It for 26k</title>
+      <link>https://eliashussen.com/posts/end-to-end-text-classifier-26k/</link>
+      <pubDate>Mon, 15 Jun 2020 15:05:06 +0300</pubDate>
+      
+      <guid>https://eliashussen.com/posts/end-to-end-text-classifier-26k/</guid>
+      <description>
+      
+      Steps I took in building an end-to-end Deep Learning pipeline for Text Classification Introduction Thou I had built some...
+      
+      </description>
+    </item>
+    <item>
+      <title>Why You Should Become a Data Engineer</title>
+      <link>https://eliashussen.com/posts/why-you-should-become-data-engineer/</link>
+      <pubDate>Sun, 07 Jun 2020 15:07:48 +0300</pubDate>
+      
+      <guid>https://eliashussen.com/posts/why-you-should-become-data-engineer/</guid>
+      <description>
+      
+      
+      
+      </description>
+    </item>
+    <item>
+      <title>Finetuning BERT for Sequence Classification and Deploying It as a REST API with AWS Lambda and API Gateway </title>
+      <link>https://eliashussen.com/posts/bert-torch-lambda/</link>
+      <pubDate>Mon, 25 May 2020 12:30:14 +0300</pubDate>
+      
+      <guid>https://eliashussen.com/posts/bert-torch-lambda/</guid>
+      <description>
+      
+      
       
       </description>
     </item>
