@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://eliashussen.com/posts/why-you-should-become-data-engineer/</loc>
-    <lastmod>2020-06-07T15:07:48+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eliashussen.com/posts/bert-torch-lambda/</loc>
     <lastmod>2020-05-25T12:30:14+03:00</lastmod>
   </url>
@@ -37,15 +32,15 @@
   </url>
   
   <url>
-    <loc>https://eliashussen.com/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://eliashussen.com/categories/</loc>
   </url>
   
   <url>
     <loc>https://eliashussen.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eliashussen.com/about/</loc>
   </url>
   
   <url>
