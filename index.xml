@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi I am Elias</title>
-    <link>https://eliashussen.com/</link>
-    <description>Recent content on eliashussen.com</description>
+    <link>https://ehdev.github.io/</link>
+    <description>Recent content on ehdev.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 15 Jul 2020 15:06:49 +0300</lastBuildDate>
     
-    <atom:link href="https://eliashussen.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ehdev.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Data Engineering Is Not Easy but Highly Rewarding</title>
-      <link>https://eliashussen.com/posts/data-engineering-is-not-easy/</link>
+      <link>https://ehdev.github.io/posts/data-engineering-is-not-easy/</link>
       <pubDate>Wed, 15 Jul 2020 15:06:49 +0300</pubDate>
       
-      <guid>https://eliashussen.com/posts/data-engineering-is-not-easy/</guid>
+      <guid>https://ehdev.github.io/posts/data-engineering-is-not-easy/</guid>
       <description>
       
       Data Engineering the process of collecting, transforming, warehousing and analyzing of all kinds of datasets from dispar...
@@ -23,35 +23,11 @@
       </description>
     </item>
     <item>
-      <title>How I built an End to End Text Classifier and Sold It for 26k</title>
-      <link>https://eliashussen.com/posts/end-to-end-text-classifier-26k/</link>
-      <pubDate>Mon, 15 Jun 2020 15:05:06 +0300</pubDate>
-      
-      <guid>https://eliashussen.com/posts/end-to-end-text-classifier-26k/</guid>
-      <description>
-      
-      Steps I took in building an end-to-end Deep Learning pipeline for Text Classification Introduction Thou I had built some...
-      
-      </description>
-    </item>
-    <item>
-      <title>Finetuning BERT for Sequence Classification and Deploying It as a REST API with AWS Lambda and API Gateway </title>
-      <link>https://eliashussen.com/posts/bert-torch-lambda/</link>
-      <pubDate>Mon, 25 May 2020 12:30:14 +0300</pubDate>
-      
-      <guid>https://eliashussen.com/posts/bert-torch-lambda/</guid>
-      <description>
-      
-      
-      
-      </description>
-    </item>
-    <item>
       <title></title>
-      <link>https://eliashussen.com/resume/</link>
+      <link>https://ehdev.github.io/resume/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eliashussen.com/resume/</guid>
+      <guid>https://ehdev.github.io/resume/</guid>
       <description>
       
       Elias Hussen Resume New York, NY 10029
@@ -63,10 +39,10 @@ ehussen[at]gmail.com
     </item>
     <item>
       <title>Contact</title>
-      <link>https://eliashussen.com/contact/</link>
+      <link>https://ehdev.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eliashussen.com/contact/</guid>
+      <guid>https://ehdev.github.io/contact/</guid>
       <description>
       
       Follow me:
@@ -81,10 +57,10 @@ elias@elitedata...
     </item>
     <item>
       <title>Meet Elias</title>
-      <link>https://eliashussen.com/about/</link>
+      <link>https://ehdev.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eliashussen.com/about/</guid>
+      <guid>https://ehdev.github.io/about/</guid>
       <description>
       
       Born and raised in Addis Ababa, Ethiopia, I’ve been living in New York since 2004. I studied at CUNY Baruch for my...
@@ -93,10 +69,10 @@ elias@elitedata...
     </item>
     <item>
       <title>Projects</title>
-      <link>https://eliashussen.com/projects/</link>
+      <link>https://ehdev.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eliashussen.com/projects/</guid>
+      <guid>https://ehdev.github.io/projects/</guid>
       <description>
       
       Nothing to see here… Move along!
@@ -106,10 +82,10 @@ elias@elitedata...
     </item>
     <item>
       <title>Subscribe</title>
-      <link>https://eliashussen.com/subscribe/</link>
+      <link>https://ehdev.github.io/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eliashussen.com/subscribe/</guid>
+      <guid>https://ehdev.github.io/subscribe/</guid>
       <description>
       
       Subscribe Here to receive weekly emails of short essays on AI, Data Engineering, etc.
